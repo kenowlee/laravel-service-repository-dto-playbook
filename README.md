@@ -11,8 +11,8 @@ Este repositório documenta e demonstra uma arquitetura pragmática para backend
 - (Capítulos seguintes) OAuth client_credentials com cache de token, Jobs/Scheduler, Logs auditáveis
 
 ## Conteúdo
-- Docs: `/docs` (comece por `docs/index.md`)
-- Exemplos: `/examples`
+- Documentação: [docs/index.md](docs/index.md)
+- Exemplos de código: `/examples`
 
 ## Fluxo (Create User)
 `Controller -> Request -> DTO -> Service -> Repository -> Resource`

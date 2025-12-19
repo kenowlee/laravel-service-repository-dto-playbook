@@ -29,7 +29,7 @@ Este repositório documenta e demonstra uma arquitetura pragmática para backend
 ```
 
 ## Roadmap (semanas)
-- [x] Semana 0: base + fluxo + padrão de erros
+- [x] Semana 0: base arquitetural + fluxo completo de exemplo
 - [ ] Semana 1: docs Service/Repository/DTO (PT-BR)
 - [ ] Semana 2: Enums + Erros padronizados (PT-BR) + refino do código
 - [ ] Semana 3: OAuth client_credentials + cache de token (PT-BR)

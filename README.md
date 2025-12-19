@@ -1,3 +1,5 @@
+![PHP](https://img.shields.io/badge/PHP-8.2-blue) ![Laravel Style](https://img.shields.io/badge/Laravel-11%2F12-orange) ![Architecture](https://img.shields.io/badge/Architecture-Service%20Layer%20%2B%20Repository-success) ![DTO](https://img.shields.io/badge/Pattern-DTO-informational)
+
 # Laravel Backend Playbook (PHP 8.2 | Laravel 11/12 style)
 
 Este repositório documenta e demonstra uma arquitetura pragmática para backends em **PHP 8.2** e estilo **Laravel 11/12**:
